@@ -4,9 +4,8 @@ Minimal Next.js app containing only the **Credit Readiness** landing page and in
 
 ## Routes
 
-- `/` → redirects to `/credit-worthiness-assessment-form`
-- `/credit-worthiness-assessment-form` — landing / hero
-- `/credit-worthiness-assessment-form/form` — assessment + results
+- `/` — landing / hero
+- `/form` — assessment + results
 
 ## Setup
 
